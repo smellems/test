@@ -2,4 +2,4 @@
 Testing Issues workflow
 
 ## Added more information
-Lorem.
+Lorem ipsum.
